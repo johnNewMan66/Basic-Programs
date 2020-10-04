@@ -23,7 +23,6 @@ def lastTerm(n):
     else:
         return None
 
-
 # First number 'check' to have 500 divisors
 check = 2**4 * 3**4 * 5**4 * 7 * 11
 
