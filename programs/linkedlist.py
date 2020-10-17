@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  6 12:15:29 2020
-
-@author: Asus
-"""
 class node():
     def __init__(self,data):
         self.data=data
